@@ -18,6 +18,3 @@ To run the project locally, follow these steps:
 1. Clone the repository.
 2. Open the project file (E-commerce Sales Dashboard) in PowerBI.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
